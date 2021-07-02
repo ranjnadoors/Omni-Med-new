@@ -1,0 +1,156 @@
+
+.nav-link{
+    color: rgba(255, 255, 255, 1) !important;
+    font-size: 18px;
+    font-family: 'proxima-nova', sans-serif;
+    font-weight: 400;
+}
+
+#container-1{
+        position:relative;
+        top: 0px;
+        width: 100%;
+        background: linear-gradient(180deg, rgba(0, 0, 0, 0.62) 0%, rgba(0, 0, 0, 0) 131.39%), rgba(0, 0, 0, 0.13);
+      }
+#img-1{
+    position: relative;
+    width: 100%;
+    z-index: -1;
+}
+.search-icon{
+    color: white;
+}
+#home-sec h2{
+    color: rgba(255, 255, 255, 1) !important;
+    font-size: 58px;
+    font-family: 'proxima-nova', sans-serif;
+    font-weight: 700;
+    text-align: center;
+    position: absolute;
+    top: 40%;
+}
+#home-sec .btn1{
+    background-color: rgba(11, 166, 181, 1);
+    border-radius: 50px;
+    font-size: 18px;
+    font-family: 'proxima-nova', sans-serif;
+    font-weight: 400;
+    position: absolute;
+    top:60%;
+    color: rgba(255, 255, 255, 1);
+    border-color: transparent;
+}
+#about-us h6{
+    font-size: 20px;
+    color: rgba(11, 166, 181, 1);
+    font-weight: 400;
+}
+#about-us .border{
+    border: 1px solid #D61638 !important;
+    height: 0px;
+    color: #D61638 !important;
+    width: 72px;
+    /* top: 17px; */
+    margin-top: 12px;
+}
+#about-us h2{
+    color: #0BA6B5;
+    font-size: 44px;
+    line-height: 65px;
+    font-family: 'proxima-nova', sans-serif;
+}
+#about-us p{
+    color: rgba(114, 114, 114, 1);
+    font-size: 21px;
+    font-family: 'proxima-nova', sans-serif;
+}
+#about-us .btn1{
+    background-color: transparent;
+    border-radius: 50px;
+    font-size: 14px;
+    font-family: 'proxima-nova', sans-serif;
+    font-weight: 400;
+    position: absolute;
+    border: 1px solid #D61638;
+    color: #D61638;
+   }
+   #about-us .btn2{
+    background-color: rgba(11, 166, 181, 1);
+    border-radius: 50px;
+    font-size: 14px;
+    font-family: 'proxima-nova', sans-serif;
+    font-weight: 400;
+    position: absolute;
+    border: 1px solid rgba(11, 166, 181, 1);
+    color: #fff;
+   }
+   #customize h2{
+       color: #0BA6B5;
+       font-size: 44px;
+       text-align: center;
+       line-height: 70px;
+   }
+   #customize .round-bg{
+    background: rgba(11, 166, 181, 0.15);
+    width: 74px;
+    height: 74px;
+    text-align: center;
+    border-radius: 50px;
+}
+       
+#customize h6{
+    color: rgba(11, 166, 181, 1);
+    font-size: 25px;
+    font-family: 'proxima-nova', sans-serif;
+} 
+#customize p{
+    color: rgba(114, 114, 114, 1);
+    font-size: 16px;
+    font-family: 'proxima-nova', sans-serif;
+} 
+#office{
+    background-color: rgba(11, 166, 181, 0.2);
+}
+#office h6{
+    color: rgba(34, 34, 34, 1);
+    font-size: 20px;
+    font-family: 'proxima-nova', sans-serif;
+}
+#office .border{
+    border: 1px solid #D61638 !important;
+    height: 0px;
+    color: #D61638 !important;
+    width: 72px;
+    /* top: 17px; */
+    margin-top: 12px;
+}
+#office h5{
+    color: rgba(34, 34, 34, 1);
+    font-size: 44px;
+    line-height: 69.17px;
+    font-family: 'proxima-nova', sans-serif;
+}
+#office .card h4{
+    color: rgba(11, 166, 181, 1);
+    font-family: 'proxima-nova', sans-serif;
+    font-size: 20px;
+}
+#office .card{
+    border-radius: 10px;
+    width: 322px;
+}
+#office .card p{
+    color: rgba(114, 114, 114, 1);
+    font-family: 'proxima-nova', sans-serif;
+    font-size: 14px;
+}
+#office .card .card-bg{
+    position: absolute;
+    background: #D61638;
+    width: 42px;
+    height: 42px;
+    top: 47%;
+    left: 75%;
+    border-radius: 66%;
+    text-align: center;
+}
