@@ -359,7 +359,7 @@ and (max-device-width : 640px)
        #about-us h2 {
         color: #0BA6B5;
         font-size: 20px;
-        /* line-height: 65px; */
+        line-height: 35px;
         font-family: 'proxima-nova', sans-serif;
     }
     #about-us p {
@@ -420,7 +420,28 @@ and (max-device-width : 640px)
     #latest-news input {
         border: 0px;
         background: transparent;
-        width: 54%;
+        width: 39%;
+    }
+    #why-choose {
+        background: black;
+        margin-top: -16px;
+    }
+    #why-choose h2 {
+        color: rgba(255, 255, 255, 1);
+        font-family: 'proxima-nova', sans-serif;
+        font-size: 30px;
+    }
+    #latest-news h2 {
+        color: #0BA6B5;
+        font-size: 23px;
+        font-weight: 400;
+        font-family: 'proxima-nova', sans-serif;
+    }
+    #client-says h2 {
+        color: rgba(11, 166, 181, 1);
+        font-family: 'proxima-nova', sans-serif;
+        font-size: 29px;
+        text-align: center;
     }
 }
 @media only screen   
@@ -433,15 +454,16 @@ and (max-device-width : 1024px)
         font-weight: 400;
     }
     #home-sec h2 {
-    top: 12%;
+    top: 20%;
+    font-size: 50px;
     }
     #home-sec .btn1 {
-        top: 29%;
+        top: 33%;
        }
        #about-us h2 {
         color: #0BA6B5;
         font-size: 35px;
-        /* line-height: 65px; */
+        line-height: 54px;
         font-family: 'proxima-nova', sans-serif;
     }
     #about-us p {
@@ -501,5 +523,11 @@ and (max-device-width : 1024px)
         left: 75%;
         border-radius: 66%;
         text-align: center;
+    }
+    #footer .text-1 {
+        color: rgba(11, 166, 181, 1);
+        font-size: 31px;
+        font-weight: 500;
+        font-family: 'proxima-nova', sans-serif;
     }
 }
